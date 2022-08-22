@@ -1,0 +1,24 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "My DSA Learning journey in various Language",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravics1721/DSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravics1721/DSA/issues"
+  },
+  "homepage": "https://github.com/ravics1721/DSA#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
